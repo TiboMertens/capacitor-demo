@@ -1,0 +1,8 @@
+{
+  "appId": "capactitor.demo",
+  "appName": "capactitor-demo",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
